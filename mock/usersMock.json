@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "name": "Juan Pérez",
+    "email": "juan@example.com",
+    "age": 25
+  },
+  {
+    "id": 2,
+    "name": "Ana Gómez",
+    "email": "ana@example.com",
+    "age": 31
+  },
+  {
+    "id": 3,
+    "name": "Pedro López",
+    "email": "pedro@example.com",
+    "age": 28
+  },
+  {
+    "id": 4,
+    "name": "María Díaz",
+    "email": "maria@example.com",
+    "age": 22
+  },
+  {
+    "id": 5,
+    "name": "Carlos Ruiz",
+    "email": "carlos@example.com",
+    "age": 35
+  },
+  {
+    "id": 6,
+    "name": "Lucía Fernández",
+    "email": "lucia@example.com",
+    "age": 29
+  },
+  {
+    "id": 7,
+    "name": "Jorge Castro",
+    "email": "jorge@example.com",
+    "age": 40
+  },
+  {
+    "id": 8,
+    "name": "Valentina Rojas",
+    "email": "valentina@example.com",
+    "age": 27
+  },
+  {
+    "id": 9,
+    "name": "Diego Herrera",
+    "email": "diego@example.com",
+    "age": 33
+  },
+  {
+    "id": 10,
+    "name": "Camila Torres",
+    "email": "camila@example.com",
+    "age": 24
+  },
+  {
+    "id": 11,
+    "name": "Sofía Vega",
+    "email": "sofia@example.com",
+    "age": 30
+  },
+  {
+    "id": 12,
+    "name": "Miguel Navarro",
+    "email": "miguel@example.com",
+    "age": 26
+  },
+  {
+    "id": 13,
+    "name": "Florencia Acosta",
+    "email": "florencia@example.com",
+    "age": 32
+  },
+  {
+    "id": 14,
+    "name": "Martín Silva",
+    "email": "martin@example.com",
+    "age": 38
+  },
+  {
+    "id": 15,
+    "name": "Paula Romero",
+    "email": "paula@example.com",
+    "age": 21
+  },
+  {
+    "id": 16,
+    "name": "Andrés Molina",
+    "email": "andres@example.com",
+    "age": 34
+  },
+  {
+    "id": 17,
+    "name": "Natalia Suárez",
+    "email": "natalia@example.com",
+    "age": 29
+  },
+  {
+    "id": 18,
+    "name": "Gabriel Ortiz",
+    "email": "gabriel@example.com",
+    "age": 36
+  },
+  {
+    "id": 19,
+    "name": "Julieta Medina",
+    "email": "julieta@example.com",
+    "age": 23
+  },
+  {
+    "id": 20,
+    "name": "Fernando Paz",
+    "email": "fernando@example.com",
+    "age": 41
+  },
+  {
+    "id": 21,
+    "name": "Agustina Luna",
+    "email": "agustina@example.com",
+    "age": 27
+  },
+  {
+    "id": 22,
+    "name": "Ricardo Cabrera",
+    "email": "ricardo@example.com",
+    "age": 39
+  },
+  {
+    "id": 23,
+    "name": "Melina Peralta",
+    "email": "melina@example.com",
+    "age": 28
+  },
+  {
+    "id": 24,
+    "name": "Sebastián Funes",
+    "email": "sebastian@example.com",
+    "age": 37
+  },
+  {
+    "id": 25,
+    "name": "Carolina Ibarra",
+    "email": "carolina@example.com",
+    "age": 26
+  }
+]
